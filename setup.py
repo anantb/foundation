@@ -26,7 +26,7 @@ setuptools.setup(
         'mypy-protobuf==1.9',
         'protobuf==3.6.1',
         'six==1.15.0',
-        'typed-ast-1.3.5',
+        'typed-ast==1.3.5',
         'typing-extensions==3.7.4.3',
     ]
 )
